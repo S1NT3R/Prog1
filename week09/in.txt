@@ -1,0 +1,10 @@
+alma 112 23 
+korte 23 13 
+szilva 3 253.53
+szolo 41 312 
+sargabarack 58923 44.41 
+oszibarack 6 54 
+kajszibarack 73 10
+paprika 842 2327
+paradicsom 92 87
+kaposzta 10 54.232
